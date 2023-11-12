@@ -1,7 +1,7 @@
 # Howdy 👋
 
 ##### About Me
-I've always enjoyed the creativity and problem solving skills when programming and I **love** being able to  take an idea or a solution and create it via programming. Im always trying to learn more about a programming language I know or learn a new language. If Im not doing that then Im either binging TV shows and/or YouTube videos, gaming, golfing, playing with my dog Jody, or out with friends:) 
+I've always enjoyed the creativity and problem solving skills along with my programming skills. I also **love** being able to  take an idea or a solution and create it via programming. I'm always trying to learn more about a programming language I know or learn a new language. If Im not doing that then Im either binging TV shows and/or YouTube videos, gaming, golfing, playing with my dog Jody, or out with friends:) 
 
 
 <!--
